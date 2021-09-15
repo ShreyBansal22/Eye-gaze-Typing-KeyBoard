@@ -26,9 +26,13 @@ This project is made mainly in two parts:
         into it so that left part gets open and do viceversa for other.
         
         To type on keyboard blink is used such that when the vertical distance becomes zero for some specified seconds a blink gets counted and the word gets typed.
+
+
+      
+
         
-                 
-        
+For downloading Dlib I have wrote a piece you can refer to it.
+
         
         
         
